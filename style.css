@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.list-items{
+    border: 1px solid black;
+    width: 30%;
+    list-style-type: none;
+    height: 18rem; 
+    margin: 0.5rem;  
+}
+
+#cards{
+    display: flex;
+}
+
